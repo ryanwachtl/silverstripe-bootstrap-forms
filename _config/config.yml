@@ -33,6 +33,6 @@ Injector:
 only:
   moduleexists: userforms
 ---
-UserDefinedForm_Controller:
+UserForm:
   extensions:
     - BootstrapUserForm
